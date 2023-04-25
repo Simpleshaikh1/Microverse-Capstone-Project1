@@ -67,7 +67,7 @@
   }
   
   .intro-section {
-    background-image: url(./images/bg_img.jpg);
+    background-image: url(./assets/bg_img.jpg);
     height: 87vh;
   }
   
@@ -85,7 +85,7 @@
     color: transparent;
     font-weight: bold;
     -webkit-background-clip: text;
-    background-image: url(./images/orangeimg.jpg);
+    background-image: url(./assets/orangeimg.jpg);
     font-size: 50px;
     letter-spacing: 5px;
   }
@@ -109,7 +109,7 @@
   }
   
   .program-section {
-    background-image: url(./images/dotedbg.png);
+    background-image: url(./assets/dotedbg.png);
     background-color: #272a31;
     color: #fff;
     padding: 2%;
@@ -202,7 +202,7 @@
   .bgFrame {
     display: flex;
     width: 45%;
-    background-image: url(./images/bgFrame.png);
+    background-image: url(./assets/bgFrame.png);
     background-repeat: no-repeat;
     background-size: 50% 50%;
     justify-content: end;
@@ -317,12 +317,12 @@
   }
   
   .event-1 {
-    background: linear-gradient(rgba(236, 82, 66, 0.8), rgba(236, 82, 66, 0.8)), url(./images/win1.jpg);
+    background: linear-gradient(rgba(236, 82, 66, 0.8), rgba(236, 82, 66, 0.8)), url(./assets/win1.jpg);
     background-repeat: no-repeat;
   }
   
   .event-2 {
-    background: linear-gradient(rgba(236, 82, 66, 0.8), rgba(236, 82, 66, 0.8)), url(./images/win2.jpg);
+    background: linear-gradient(rgba(236, 82, 66, 0.8), rgba(236, 82, 66, 0.8)), url(./assets/win2.jpg);
     background-repeat: no-repeat;
   }
   
@@ -383,7 +383,7 @@
       position: fixed;
       top: 0;
       left: 0;
-      background-image: url(./images/bg_img.jpg);
+      background-image: url(./assets/bg_img.jpg);
       width: 100vw;
       height: 100vh;
       padding: 10%;
