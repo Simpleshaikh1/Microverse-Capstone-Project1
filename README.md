@@ -23,24 +23,27 @@
 
 # 📖 [My Microverse Porfoilo] <a name="about-project"></a>
 
-> This is my second Microverse project. This project is called My Microverse Portfoilo and in this project, I am creating a website that contains all of my info as a software developer.
+> This is my first microverse capstone project. I created using HTML, CSS and JavaScript.
 
 ## 🛠 Built With
 
 - HTML
 - CSS
+- JavaScript
 
 
 
 ## Key Features
 
-- [Visual Studio Code]: This is environment in which the application is built.
+- [Content]: World Heritage List
 - [HTML] : This is a Markup Language use to achieve the project
+- [Development] : Mobile first development
+- [Responsiveness] : Responsiveness and flexibility for any screen size
 - [Linters] : This is a tool used in the project to avoide coding error and professionality
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://simpleshaikh1.github.io/portfolio.github.io/)
+- [Live Demo Link](https://simpleshaikh1.github.io/FirstCapstone.github.io/)
 
 
 
@@ -86,6 +89,7 @@
 
 ## Deployment
 - You can deploy this project using: Host services
+https://simpleshaikh1.github.io/FirstCapstone.github.io/
 
 
 
