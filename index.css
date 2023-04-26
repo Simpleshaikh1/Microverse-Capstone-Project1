@@ -361,6 +361,10 @@ footer {
     padding: 10%;
   }
 
+  .intro-section {
+    height: 91vh;
+  }
+
   .main-nav .logo {
     display: none;
   }
