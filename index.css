@@ -356,6 +356,11 @@ footer {
     display: none;
   }
 
+  #logo-section {
+    margin-top: 20%;
+    padding: 10%;
+  }
+
   .main-nav .logo {
     display: none;
   }
@@ -540,7 +545,7 @@ footer {
   }
 
   .logo-container {
-    padding: 20%;
+    padding: 5%;
   }
 
   .logo-desc {
@@ -594,6 +599,11 @@ footer {
 
   .program-heading {
     font-size: 14px;
+  }
+
+  #logo-section {
+    padding: 10%;
+    margin-top: 60%;
   }
 
   .program-dsec {
