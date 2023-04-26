@@ -45,7 +45,7 @@ function renderFeaturedSpeakers() {
                     <h3>${featuredSpeakerInf.speakerName}</h3>
                 </li>
                 <li class="Contributor-affiliation">
-                    <h4>${featuredSpeakerInf.speakerAffiliation}</h4>
+                    <h4>${featuredSpeakerInf.speakerAffiliation}</h4> 
                     </li>
                     <li class="contributor-description">
                       <p>${featuredSpeakerInf.speakerInfo}
