@@ -497,6 +497,14 @@ footer {
     display: none;
   }
 
+  .speaker-5 {
+    display: none;
+  }
+
+  .speaker-6 {
+    display: none;
+  }
+
   .seeMoreBtn {
     display: block;
     background: #fff;
@@ -532,7 +540,7 @@ footer {
   }
 
   .logo-container {
-    padding: 10%;
+    padding: 20%;
   }
 
   .logo-desc {
@@ -542,6 +550,7 @@ footer {
 
   .logo-img {
     width: 95%;
+    color: red;
   }
 
   .past-desc {
