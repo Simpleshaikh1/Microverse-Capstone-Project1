@@ -45,6 +45,8 @@
 
 - [Live Demo Link](https://simpleshaikh1.github.io/FirstCapstone.github.io/)
 
+- [Live Demo Link](https://www.loom.com/share/fb5fcccbd67d4dc7b060fdfb698df122)
+
 
 
 ## 💻 Getting Started
@@ -107,6 +109,8 @@ https://simpleshaikh1.github.io/FirstCapstone.github.io/
 
 - [ ] Animation
 - [ ] Modal pages
+- [ ] Sponsor page
+- [ ] News page
 
 
 # 🤝 Contributing
@@ -118,6 +122,7 @@ Contributions, issues, and feature requests are welcome!
 
 # 🙏 Acknowledgments
 
+- I would like to thank Microverse and the designer Cindy Shin in [Behance](https://www.behance.net/adagio07).
 - I would like to thank Microverse and my code reviewer for making me a better programmer
 
 

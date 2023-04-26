@@ -23,6 +23,18 @@ const speakersData = [
     speakerInfo: 'Sven Apel is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University, Pullman.',
     speakerImage: './assets/speaker4.jpg',
   },
+  {
+    speakerName: 'Sven Apel',
+    speakerAffiliation: 'Saarland University',
+    speakerInfo: 'Sven Apel is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University, Pullman.',
+    speakerImage: './assets/speaker2.jpg',
+  },
+  {
+    speakerName: 'Sven Apel',
+    speakerAffiliation: 'Saarland University',
+    speakerInfo: 'Sven Apel is an associate professor in the School of Electrical Engineering and Computer Science at Washington State University, Pullman.',
+    speakerImage: './assets/speaker3.jpg',
+  },
 ];
 
 function renderFeaturedSpeakers() {
@@ -45,7 +57,7 @@ function renderFeaturedSpeakers() {
                     <h3>${featuredSpeakerInf.speakerName}</h3>
                 </li>
                 <li class="Contributor-affiliation">
-                    <h4>${featuredSpeakerInf.speakerAffiliation}</h4>
+                    <h4>${featuredSpeakerInf.speakerAffiliation}</h4> 
                     </li>
                     <li class="contributor-description">
                       <p>${featuredSpeakerInf.speakerInfo}
@@ -65,11 +77,15 @@ function renderFeaturedSpeakers() {
   const seeLessBtn = document.querySelector('.less');
   const speaker3 = document.querySelector('.speaker-3');
   const speaker4 = document.querySelector('.speaker-4');
+  const speaker5 = document.querySelector('.speaker-5');
+  const speaker6 = document.querySelector('.speaker-6');
 
   function seeMore() {
     seeMoreBtn.setAttribute('class', 'speaker-3');
     speaker3.classList.remove('speaker-3');
     speaker4.classList.remove('speaker-4');
+    speaker5.classList.remove('speaker-5');
+    speaker6.classList.remove('speaker-6');
     seeLessBtn.setAttribute('class', 'seeMoreBtn');
   }
 
@@ -77,6 +93,8 @@ function renderFeaturedSpeakers() {
     seeLessBtn.setAttribute('class', 'speaker-3 less');
     speaker3.classList.add('speaker-3');
     speaker4.classList.add('speaker-4');
+    speaker5.classList.add('speaker-5');
+    speaker6.classList.add('speaker-6');
     seeMoreBtn.setAttribute('class', 'seeMoreBtn');
   }
 

@@ -356,6 +356,15 @@ footer {
     display: none;
   }
 
+  #logo-section {
+    margin-top: 20%;
+    padding: 10%;
+  }
+
+  .intro-section {
+    height: 91vh;
+  }
+
   .main-nav .logo {
     display: none;
   }
@@ -497,6 +506,14 @@ footer {
     display: none;
   }
 
+  .speaker-5 {
+    display: none;
+  }
+
+  .speaker-6 {
+    display: none;
+  }
+
   .seeMoreBtn {
     display: block;
     background: #fff;
@@ -532,7 +549,7 @@ footer {
   }
 
   .logo-container {
-    padding: 10%;
+    padding: 5%;
   }
 
   .logo-desc {
@@ -542,6 +559,7 @@ footer {
 
   .logo-img {
     width: 95%;
+    color: red;
   }
 
   .past-desc {
@@ -585,6 +603,11 @@ footer {
 
   .program-heading {
     font-size: 14px;
+  }
+
+  #logo-section {
+    padding: 10%;
+    margin-top: 60%;
   }
 
   .program-dsec {
